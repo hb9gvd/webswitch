@@ -6,14 +6,17 @@ Cheap Web controlled Relaycontroller via Ethernet and other means (also homeauto
 ![KC868-A2-schematic](KC868-A2-schematic.png)
 
 ### Procurement
-[Official Store](https://kincony.aliexpress.com) 
-look for KC868-Ax (ESP32 Module)
 
-My HW sample: 
-[A2 ESP32 Relay Switch Board Support 4G/2G GPRS Tasmota RS485 I2C Ethernet WiFi](https://www.aliexpress.com/item/1005007465421050.html) With case and (optional)
+#### My HW sample
+[A2 ESP32 Relay Switch Board Support 4G/2G GPRS Tasmota RS485 I2C Ethernet WiFi](https://www.aliexpress.com/item/1005007465421050.html) With case
 
 [SIM7600E](https://www.aliexpress.com/item/1005006806214709.html) With GPS FPC antenna 
 (GPS is not supported by KCS firmware)
+
+#### Stores
+
+[Official Store](https://kincony.aliexpress.com) 
+look for KC868-Ax (ESP32 Module)
 
 [Alternate 4 Channel source](https://www.aliexpress.com/item/4001232791244.html) Ethernet Relay Board Network MQTT Home Assistant Domoticz Modbus WiFi RS485 CAN Module HTTP Web TCP UDP CoAP IP Watchdog Timer
 
@@ -32,6 +35,9 @@ KCS advantage: It supports SIM7600E module and some IFTTT
 ### Tasmota
 
 Tasmota advantage: easy operational UX
+Tasmota operational web GUI will look like this
+
+![Tasmota-Main-Menu](/images/Tasmota-Main-Menu.png)
 
 Install with eg. [Webinstaller](https://tasmota.github.io/install/) and Chromium, select "Tasmota (english)"
 
@@ -49,7 +55,4 @@ Set Module parameters accordingly
 
 ![Tasmota-Configure-Module-Paramete](images/Tasmota-Configure-Module-Parameter.png)
 
-Tasmota Web GUI will look like this
-
-![Tasmota-Main-Menu](/images/Tasmota-Main-Menu.png)
 
