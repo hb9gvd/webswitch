@@ -20,9 +20,9 @@ look for KC868-Ax (ESP32 Module)
 
 [Alternate 4 Channel source](https://www.aliexpress.com/item/4001232791244.html) Ethernet Relay Board Network MQTT Home Assistant Domoticz Modbus WiFi RS485 CAN Module HTTP Web TCP UDP CoAP IP Watchdog Timer
 
-## Choose either KCS firmware or Tasmota firmware
+**Choose either KCS firmware or Tasmota firmware**
 
-### KCS V2 KC868-A series firmware
+## KCS V2 KC868-A series firmware
 
 KCS advantage: It supports SIM7600E module and some IFTTT
 
@@ -32,12 +32,15 @@ KCS advantage: It supports SIM7600E module and some IFTTT
 
 [Configuration Guide](https://www.kincony.com/esp32-kcsv2-firmware.html)
 
-### Tasmota
+## Tasmota
 
 Tasmota advantage: easy operational UX
-Tasmota operational web GUI will look like this
+
+### Tasmota operational web GUI will look like this
 
 ![Tasmota-Main-Menu](/images/Tasmota-Main-Menu.png)
+
+### Installation
 
 Install with eg. [Webinstaller](https://tasmota.github.io/install/) and Chromium, select "Tasmota (english)"
 
