@@ -1,0 +1,8 @@
+KCS V2 KC868-A series firmware:
+https://www.kincony.com/forum/showthread.php?tid=3109
+
+Flashen mit z.B. Tasmota Installer und Chromium Browser:
+https://tasmota.github.io/install/
+
+Configuration Guide:
+https://www.kincony.com/esp32-kcsv2-firmware.html

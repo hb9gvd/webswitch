@@ -1,0 +1,16 @@
+Procurement: 
+Official Store: https://kincony.aliexpress.com
+KC868-Ax (ESP32 Module)
+
+My HW sample
+A2 ESP32 Relay Switch Board Support 4G/2G GPRS Tasmota RS485 I2C Ethernet WiFi
+https://www.aliexpress.com/item/1005007465421050.html
+With case
+SIM7600E:
+https://www.aliexpress.com/item/1005006806214709.html
+With GPS FPC antenna
+GPS is not supported by KCS firmware
+
+Alternate 4 Channel source
+https://www.aliexpress.com/item/4001232791244.html
+Ethernet Relay Board Network MQTT Home Assistant Domoticz Modbus WiFi RS485 CAN Module HTTP Web TCP UDP CoAP IP Watchdog Timer

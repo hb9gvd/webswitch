@@ -1,0 +1,12 @@
+Webinstaller:
+https://tasmota.github.io/install/
+select "Tasmota (english)"
+
+images/Tasmota-Configure-Other-Parameter.png
+Important! Set "Tasmota Other Parameter Template" (Example with static Ethernet Address):
+{"NAME":"Relay-Controller-A2","GPIO":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,1,1,1,0,0,1],"FLAG":0,"BASE":1,"CMND":"EthIPAddress 192.168.42.90 | EthSubnetmask 255.255.255.0 | EthGateway 192.168.42.2 | EthDNSServer1 9.9.9.9 | POWER1 1 | POWER2 1"}
+
+images/Tasmota-Configure-Module-Parameter.png
+Choose module type:
+Relay-Controller-A2 (0)
+
