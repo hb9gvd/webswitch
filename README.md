@@ -36,7 +36,7 @@ KCS advantage: It supports SIM7600E module and some IFTTT
 
 Tasmota advantage: easy operational UX
 
-### Tasmota operational web GUI will look like this
+#### Tasmota operational web GUI will look like this
 
 ![Tasmota-Main-Menu](/images/Tasmota-Main-Menu.png)
 
@@ -46,11 +46,11 @@ Install with eg. [Webinstaller](https://tasmota.github.io/install/) and Chromium
 
 #### Set "Tasmota Other Parameter Template" 
 
-![Tasmota-Configure-Other-Parameter](/images/Tasmota-Configure-Other-Parameter.png)
-
 Following template example contains a static Ethernet address:
 
 `{"NAME":"Relay-Controller-A2","GPIO":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,1,1,1,0,0,1],"FLAG":0,"BASE":1,"CMND":"EthIPAddress 192.168.42.90 | EthSubnetmask 255.255.255.0 | EthGateway 192.168.42.2 | EthDNSServer1 9.9.9.9 | POWER1 1 | POWER2 1"}`
+
+![Tasmota-Configure-Other-Parameter](/images/Tasmota-Configure-Other-Parameter.png)
 
 #### Choose module type: `Relay-Controller-A2 (0)`
 
