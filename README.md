@@ -28,9 +28,11 @@ My HW sample:
 **Important:**
 - Set "Tasmota Other Parameter Template" 
 - Choose module type: `Relay-Controller-A2 (0)`
-(following example with static Ethernet address):
 
+Following template example contains a static Ethernet address:
 `{"NAME":"Relay-Controller-A2","GPIO":[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,0,0,1,1,1,1,1,0,0,1],"FLAG":0,"BASE":1,"CMND":"EthIPAddress 192.168.42.90 | EthSubnetmask 255.255.255.0 | EthGateway 192.168.42.2 | EthDNSServer1 9.9.9.9 | POWER1 1 | POWER2 1"}`
+
+Set at Module parameters the GPIO accordingly
 
 ![Tasmota-Configure-Module-Paramete](images/Tasmota-Configure-Module-Parameter.png)
 
