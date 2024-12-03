@@ -19,11 +19,23 @@ My HW sample:
 
 ## Choose either KCS firmware or Tasmota firmware
 
+### KCS V2 KC868-A series firmware
+
+KCS advantage: It supports SIM7600E module and some IFTTT
+
+[Obtain firmware](https://www.kincony.com/forum/showthread.php?tid=3109)
+
+[Flash with eg Tasmota Installer and Chromium Browser](https://tasmota.github.io/install/)
+
+[Configuration Guide](https://www.kincony.com/esp32-kcsv2-firmware.html)
+
 ### Tasmota
 
-[Webinstaller](https://tasmota.github.io/install/) select "Tasmota (english)"
+Tasmota advantage: easy operational UX
 
-####Set "Tasmota Other Parameter Template" 
+Install with eg. [Webinstaller](https://tasmota.github.io/install/) and Chromium, select "Tasmota (english)"
+
+#### Set "Tasmota Other Parameter Template" 
 
 ![Tasmota-Configure-Other-Parameter](/images/Tasmota-Configure-Other-Parameter.png)
 
@@ -37,11 +49,7 @@ Set Module parameters accordingly
 
 ![Tasmota-Configure-Module-Paramete](images/Tasmota-Configure-Module-Parameter.png)
 
-![Tasmota Web GUI will look like this](/images/Tasmota-Main-Menu.png)
+Tasmota Web GUI will look like this
 
-### KCS V2 KC868-A series firmware:
-[Obtain firmware](https://www.kincony.com/forum/showthread.php?tid=3109)
+![Tasmota-Main-Menu](/images/Tasmota-Main-Menu.png)
 
-[Flash with eg Tasmota Installer and Chromium Browser](https://tasmota.github.io/install/)
-
-[Configuration Guide](https://www.kincony.com/esp32-kcsv2-firmware.html)
